@@ -12,7 +12,7 @@
 
 <!-- Profile Views + Social Badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=klinton-a&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Klinton0365&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="Profile Views" />
   <a href="mailto:klinton.developer365@gmail.com">
     <img src="https://img.shields.io/badge/Email-klinton.developer365%40gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -177,16 +177,16 @@ mindset     : "Ship clean code. Design for scale. Secure everything."
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=klinton-a&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klinton-a&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=e2e8f0&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=Klinton0365&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0"/>
+<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Klinton0365&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=e2e8f0&langs_count=8"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=klinton-a&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=Klinton0365&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub Streak" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=klinton-a&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Klinton0365&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 
 </div>
 
@@ -196,7 +196,7 @@ mindset     : "Ship clean code. Design for scale. Secure everything."
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=klinton-a&theme=onestar&no-frame=true&column=7&margin-w=6&title=MultiLanguage,Commits,Repositories,PullRequest,Reviews,Issues,Stars" />
+<img src="https://github-profile-trophy.vercel.app/?username=Klinton0365&theme=onestar&no-frame=true&column=7&margin-w=6&title=MultiLanguage,Commits,Repositories,PullRequest,Reviews,Issues,Stars" />
 
 </div>
 
