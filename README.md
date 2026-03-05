@@ -32,9 +32,9 @@
 
 ```yaml
 name        : Klinton A
-title       : Senior Full-Stack Engineer | SaaS Architect
+title       : Full-Stack Developer | SaaS Architect
 location    : India 🇮🇳
-experience  : 10+ Years in Production PHP & MERN Development
+experience  : 2+ Years in Production PHP & MERN Development
 
 specialties :
   - Multi-tenant SaaS platforms with RBAC & JWT security
@@ -187,16 +187,6 @@ mindset     : "Ship clean code. Design for scale. Secure everything."
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Klinton0365&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Klinton0365&theme=onestar&no-frame=true&column=7&margin-w=6&title=MultiLanguage,Commits,Repositories,PullRequest,Reviews,Issues,Stars" />
 
 </div>
 
