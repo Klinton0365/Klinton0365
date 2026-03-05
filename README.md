@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=PHP+%2B+MERN+Full-Stack+Engineer;SaaS+Platform+Architect;REST+API+%26+Microservices+Specialist;AWS+%26+DevOps+Engineer;10%2B+Years+Building+Production+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=PHP+%2B+MERN+Full-Stack+Engineer;SaaS+Platform+Architect;REST+API+%26+Microservices+Specialist;AWS+%26+DevOps+Engineer;2%2B+Years+Building+Production+Systems" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -33,7 +33,7 @@
 ```yaml
 name        : Klinton A
 title       : Full-Stack Developer | SaaS Architect
-location    : India 🇮🇳
+location    : Bangalore, India 🇮🇳
 experience  : 2+ Years in Production PHP & MERN Development
 
 specialties :
