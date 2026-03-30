@@ -19,7 +19,7 @@
   <a href="https://www.linkedin.com/in/klinton-a-191338246/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://klinton.thewebwave.in">
+  <a href="https://slateblue-raccoon-549806.hostingersite.com">
     <img src="https://img.shields.io/badge/Portfolio-Live-22c55e?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
